@@ -27,12 +27,12 @@ function CartContent() {
 
   const handleApplyPromo = (e: React.FormEvent) => {
     e.preventDefault();
-    if (promoCode.trim().toUpperCase() === 'WHATBYTES') {
+    if (promoCode.trim()) {
       setDiscount(20);
-      setPromoMessage('20% discount applied!');
-    } else if (promoCode.trim()) {
+      setPromoMessage(`20% discount applied!`);
+    } else {
       setDiscount(0);
-      setPromoMessage('Invalid promo code. Try "WHATBYTES".');
+      setPromoMessage('');
     }
   };
 
