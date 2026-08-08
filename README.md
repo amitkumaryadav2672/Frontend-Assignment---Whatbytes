@@ -8,7 +8,7 @@ Built by **Amit Kumar Yadav** for the Whatbytes Frontend Developer Intern assign
 
 ## 🔗 Live Demo & Repository
 
-* **Live Demo (Vercel)**: [https://whatbytes-assignment.vercel.app](https://whatbytes-assignment.vercel.app)
+* **Live Demo (Vercel)**: [https://frontend-assignment-whatbytes-lovat.vercel.app/](https://frontend-assignment-whatbytes-lovat.vercel.app/)
 * **GitHub Repository**: [https://github.com/amitkumaryadav2672/Frontend-Assignment---Whatbytes](https://github.com/amitkumaryadav2672/Frontend-Assignment---Whatbytes)
 
 ---
@@ -145,5 +145,5 @@ npm run start
 ## 📦 Deployment
 
 This project is deployed live on **Vercel**:
-👉 **[https://whatbytes-assignment.vercel.app](https://whatbytes-assignment.vercel.app)**
+👉 **[https://frontend-assignment-whatbytes-lovat.vercel.app/](https://frontend-assignment-whatbytes-lovat.vercel.app/)**
 
