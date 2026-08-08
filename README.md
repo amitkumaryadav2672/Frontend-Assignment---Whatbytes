@@ -9,7 +9,7 @@ Built by **Amit Kumar Yadav** for the Whatbytes Frontend Developer Intern assign
 ## 🔗 Live Demo & Repository
 
 * **Live Demo (Vercel)**: [https://whatbytes-assignment.vercel.app](https://whatbytes-assignment.vercel.app)
-* **GitHub Repository**: [https://github.com/amitkumaryadav2672/Whatbytes](https://github.com/amitkumaryadav2672/Whatbytes)
+* **GitHub Repository**: [https://github.com/amitkumaryadav2672/Frontend-Assignment---Whatbytes](https://github.com/amitkumaryadav2672/Frontend-Assignment---Whatbytes)
 
 ---
 
@@ -107,8 +107,8 @@ Follow these steps to set up and run the project locally on your machine:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/amitkumaryadav2672/Whatbytes.git
-cd Whatbytes
+git clone https://github.com/amitkumaryadav2672/Frontend-Assignment---Whatbytes.git
+cd Frontend-Assignment---Whatbytes
 ```
 
 ### 2. Install dependencies
